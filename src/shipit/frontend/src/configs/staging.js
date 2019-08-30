@@ -28,7 +28,7 @@ module.exports = {
           enableReleaseEta: false,
         },
       ],
-      enablePartials: true,
+      enablePartials: false,
     },
     {
       product: 'fennec',
